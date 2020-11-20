@@ -4,5 +4,5 @@ For now it only has 5 modules: BTC, BCH, LTC, ETH, XMR;
 
 ## Screenshot
 <p>
-<img src="https://raw.githubusercontent.com/xdavyd/Crypto-Clipper-Detector/master/ui.png">
+<img src="https://raw.githubusercontent.com/imdavyd/Crypto-Clipper-Detector/master/ui.png">
 </p>
